@@ -79,5 +79,12 @@ dashboard_screenshots – dashboard images
 • Certain regions show higher default concentration
 • Missed repayments strongly correlate with loan default events.
 
+## Business Recommendations
+Based on the analysis:
+• Regions with higher default rates should undergo stricter credit checks.
+• Loan products with higher default frequency may require adjusted interest rates.
+• Customers with repeated missed repayments should be flagged for early risk monitoring.
+• Credit score trends can be used to identify borrowers likely to default in the future.
+
 ## Author
 Data analytics project by Kashish Goyal
